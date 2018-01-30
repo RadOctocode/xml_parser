@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Infringement xmlns="http://www.acns.net/ACNS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.acns.net/ACNS http://www.acns.net/v1.2/ACNS2v1_2.xsd">
+<Case>
+<ID>a6aa5917a05fa51b10f0</ID>
+<Status>Open</Status>
+<Severity>Normal</Severity>
+</Case>
+<Complainant>
+<Entity>NBC UNIVERSAL</Entity>
+<Contact>IP-Echelon - Compliance</Contact>
+<Address>6715 Hollywood Blvd
+Los Angeles CA 90028
+United States of America</Address>
+<Phone>+1 (310) 606 2747</Phone>
+<Email>p2p@copyright.ip-echelon.com</Email>
+</Complainant>
+<Service_Provider>
+<Entity>Binghamton University</Entity>
+<Email>abuse@binghamton.edu</Email>
+</Service_Provider>
+<Source>
+<TimeStamp>2018-01-24T06:29:49Z</TimeStamp>
+<IP_Address>149.125.68.217</IP_Address>
+<Port>11963</Port>
+<Type>BitTorrent</Type>
+<SubType BaseType="P2P" Protocol="BITTORRENT"/>
+<Number_Files>1</Number_Files>
+</Source>
+<Content>
+<Item>
+<TimeStamp>2018-01-24T06:29:49Z</TimeStamp>
+<Title>Get Out</Title>
+<FileName>Get.Out.2017.HC.HDRip.XviD.AC3-EVO</FileName>
+<FileSize>1487469165</FileSize>
+<Hash Type="SHA1">8f1072edc4e74bb41f12f425d7a91bf5a534bd26</Hash>
+</Item>
+</Content>
+</Infringement>
