@@ -24,12 +24,16 @@ username = driver.find_element_by_id("username")
 password = driver.find_element_by_id("password")
 
 
-username.send_keys("username")#put in username
-password.send_keys("password")#put in password
+username.send_keys("mtan23")#put in username
+password.send_keys("1vyisAspy")#put in password
 
 
 login_attempt = driver.find_element_by_xpath("//*[@type='submit']")
 login_attempt.submit()
+
+search_button = driver.find_element_by_xpath("//*[@data-appid='search']")
+search_button.click()
+
 
 
 
@@ -42,6 +46,10 @@ login_attempt.submit()
 
 #driver.close()
 #end of driver sample code
+
+#click this button 
+#<div class="app" data-appid="search" style="background-color:#65A637">	                    <a href="/en-US/app/search/">	                            <span class="helper"></span><img src="/en-US/splunkd/__raw/servicesNS/mtan23/search/static/appIcon.png">	                        <div class="app-name">Search &amp; Reporting</div>	                        <div class="drag-handle"></div>	                        	                    </a>	                </div>
+
 
 #resources               
 #http://www.thetaranights.com/login-to-a-website-using-selenium-python-python-selenium-example/
