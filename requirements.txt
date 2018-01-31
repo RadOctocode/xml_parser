@@ -1,0 +1,3 @@
+pip install selenium
+download geckodriver and export path (follow tutorial here https://stackoverflow.com/questions/40208051/selenium-using-python-geckodriver-executable-needs-to-be-in-path)
+before running export path(export PATH=$PATH:/home/michelle/gecdriver) 
