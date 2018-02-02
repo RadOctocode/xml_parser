@@ -31,10 +31,11 @@ password.send_keys("1vyisAspy")#put in password
 login_attempt = driver.find_element_by_xpath("//*[@type='submit']")
 login_attempt.submit()
 
-search_button = driver.find_element_by_xpath("//*[@data-appid='search']")
-search_button.click()
+#driver.find_element_by_xpath('//a[@href="'+"Search & Reporting"+'"]').click()
+driver.find_element_by_xpath().click()
 
-
+continue_link = driver.find_element_by_link_text("Search & Reporting")
+continue_link.click();
 
 
 
@@ -54,4 +55,5 @@ search_button.click()
 #resources               
 #http://www.thetaranights.com/login-to-a-website-using-selenium-python-python-selenium-example/
 #https://pythonspot.com/selenium-click-button/
+#http://selenium-python.readthedocs.io/locating-elements.html#locating-by-xpath
 
