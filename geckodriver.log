@@ -1,0 +1,286 @@
+1517417640381	geckodriver	INFO	geckodriver 0.19.1
+1517417640383	geckodriver	INFO	Listening on 127.0.0.1:46341
+1517417641474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uzNBFI1A8hhe"
+1517417642047	Marionette	INFO	Enabled via --marionette
+1517417644115	Marionette	INFO	Listening on port 34823
+1517417644184	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:7021): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517417762502	geckodriver	INFO	geckodriver 0.19.1
+1517417762504	geckodriver	INFO	Listening on 127.0.0.1:44565
+1517417763596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xHgay4vVutCA"
+1517417764108	Marionette	INFO	Enabled via --marionette
+1517417766243	Marionette	INFO	Listening on port 39783
+1517417766307	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:7265): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517417817008	geckodriver	INFO	geckodriver 0.19.1
+1517417817011	geckodriver	INFO	Listening on 127.0.0.1:53269
+1517417818106	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FMI5N91q4tT9"
+1517417818672	Marionette	INFO	Enabled via --marionette
+1517417821131	Marionette	INFO	Listening on port 35177
+1517417822196	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:7524): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517585833177	geckodriver	INFO	geckodriver 0.19.1
+1517585833199	geckodriver	INFO	Listening on 127.0.0.1:33107
+1517585834412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3VVH1lg2xgSG"
+1517585835374	Marionette	INFO	Enabled via --marionette
+1517585838873	Marionette	INFO	Listening on port 33261
+1517585839899	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:4328): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1517592696583	geckodriver	INFO	geckodriver 0.19.1
+1517592696586	geckodriver	INFO	Listening on 127.0.0.1:49299
+1517592697677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tZ6WhJOr1mnu"
+1517592698234	Marionette	INFO	Enabled via --marionette
+1517592700414	Marionette	INFO	Listening on port 38945
+1517592700487	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:7037): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517593354648	geckodriver	INFO	geckodriver 0.19.1
+1517593354650	geckodriver	INFO	Listening on 127.0.0.1:37127
+1517593355739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8xkLo16RcH11"
+1517593356244	Marionette	INFO	Enabled via --marionette
+1517593358488	Marionette	INFO	Listening on port 34757
+1517593358559	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:7462): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517845596703	geckodriver	INFO	geckodriver 0.19.1
+1517845596726	geckodriver	INFO	Listening on 127.0.0.1:60523
+1517845597923	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OatrxaPgL9y5"
+1517845598818	Marionette	INFO	Enabled via --marionette
+1517845602496	Marionette	INFO	Listening on port 38383
+1517845603354	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:6140): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517845774201	geckodriver	INFO	geckodriver 0.19.1
+1517845774204	geckodriver	INFO	Listening on 127.0.0.1:42155
+1517845775313	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KbAhB6cZEs59"
+1517845775885	Marionette	INFO	Enabled via --marionette
+1517845778174	Marionette	INFO	Listening on port 45379
+1517845778227	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:6506): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517845926701	geckodriver	INFO	geckodriver 0.19.1
+1517845926704	geckodriver	INFO	Listening on 127.0.0.1:38339
+1517845927798	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pjzlE0Xtojz9"
+1517845928385	Marionette	INFO	Enabled via --marionette
+1517845931052	Marionette	INFO	Listening on port 35793
+1517845931110	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:6793): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517845974658	geckodriver	INFO	geckodriver 0.19.1
+1517845974660	geckodriver	INFO	Listening on 127.0.0.1:60925
+1517845975753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iUFEZmkpDSYb"
+1517845976281	Marionette	INFO	Enabled via --marionette
+1517845978575	Marionette	INFO	Listening on port 44159
+1517845978673	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:7003): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517846515419	geckodriver	INFO	geckodriver 0.19.1
+1517846515421	geckodriver	INFO	Listening on 127.0.0.1:35149
+1517846516532	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.q4DtEAyLkkhZ"
+1517846517143	Marionette	INFO	Enabled via --marionette
+1517846519513	Marionette	INFO	Listening on port 43381
+1517846519545	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:7501): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1517846677610	geckodriver	INFO	geckodriver 0.19.1
+1517846677613	geckodriver	INFO	Listening on 127.0.0.1:60287
+1517846678741	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Fo4w1M37MTq4"
+1517846679352	Marionette	INFO	Enabled via --marionette
+1517846681687	Marionette	INFO	Listening on port 45215
+1517846681754	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:7784): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1517846904419	geckodriver	INFO	geckodriver 0.19.1
+1517846904422	geckodriver	INFO	Listening on 127.0.0.1:43015
+1517846905544	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vPjIymQ9J98k"
+1517846906179	Marionette	INFO	Enabled via --marionette
+1517846908800	Marionette	INFO	Listening on port 42929
+1517846908860	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:8137): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1517847162097	geckodriver	INFO	geckodriver 0.19.1
+1517847162101	geckodriver	INFO	Listening on 127.0.0.1:34067
+1517847163220	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zHZk80nciCaF"
+1517847163790	Marionette	INFO	Enabled via --marionette
+1517847166254	Marionette	INFO	Listening on port 46491
+1517847166332	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:8545): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1517847526532	geckodriver	INFO	geckodriver 0.19.1
+1517847526535	geckodriver	INFO	Listening on 127.0.0.1:38229
+1517847527648	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.30W5PEmCkFSo"
+1517847528238	Marionette	INFO	Enabled via --marionette
+1517847530530	Marionette	INFO	Listening on port 39293
+1517847530560	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:9337): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1517847807167	geckodriver	INFO	geckodriver 0.19.1
+1517847807170	geckodriver	INFO	Listening on 127.0.0.1:40915
+1517847808297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.U7dSLxFW6rH6"
+1517847808889	Marionette	INFO	Enabled via --marionette
+1517847811222	Marionette	INFO	Listening on port 33373
+1517847811308	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:9669): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517847934836	geckodriver	INFO	geckodriver 0.19.1
+1517847934838	geckodriver	INFO	Listening on 127.0.0.1:32969
+1517847935965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4AKXMorz3CGU"
+1517847936579	Marionette	INFO	Enabled via --marionette
+1517847938998	Marionette	INFO	Listening on port 42611
+1517847939076	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:10005): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1517848101059	geckodriver	INFO	geckodriver 0.19.1
+1517848101061	geckodriver	INFO	Listening on 127.0.0.1:50929
+1517848102191	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QK2LJ4onpjEl"
+1517848102824	Marionette	INFO	Enabled via --marionette
+1517848105078	Marionette	INFO	Listening on port 40641
+1517848105108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517848180750	geckodriver	INFO	geckodriver 0.19.1
+1517848180753	geckodriver	INFO	Listening on 127.0.0.1:38941
+1517848181876	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xQhOWtBar4rn"
+1517848182473	Marionette	INFO	Enabled via --marionette
+1517848184905	Marionette	INFO	Listening on port 43133
+1517848184988	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:10594): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1517848207563	geckodriver	INFO	geckodriver 0.19.1
+1517848207566	geckodriver	INFO	Listening on 127.0.0.1:56485
+1517848208673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NTY3aKwhc4Xh"
+1517848209251	Marionette	INFO	Enabled via --marionette
+1517848211690	Marionette	INFO	Listening on port 34155
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517848212768	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:10814): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1517848226363	geckodriver	INFO	geckodriver 0.19.1
+1517848226366	geckodriver	INFO	Listening on 127.0.0.1:39553
+1517848227501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Yfbzt5WxlZwS"
+1517848228153	Marionette	INFO	Enabled via --marionette
+1517848230511	Marionette	INFO	Listening on port 43087
+1517848230614	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517848377638	geckodriver	INFO	geckodriver 0.19.1
+1517848377642	geckodriver	INFO	Listening on 127.0.0.1:46307
+1517848378766	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.urxsyezvBd37"
+1517848379390	Marionette	INFO	Enabled via --marionette
+1517848381824	Marionette	INFO	Listening on port 45687
+1517848381881	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:11311): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1517848433938	geckodriver	INFO	geckodriver 0.19.1
+1517848433941	geckodriver	INFO	Listening on 127.0.0.1:44833
+1517848435034	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vVYddVgl8GnO"
+1517848435623	Marionette	INFO	Enabled via --marionette
+1517848437918	Marionette	INFO	Listening on port 33395
+1517848437947	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:11535): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1517848530127	geckodriver	INFO	geckodriver 0.19.1
+1517848530129	geckodriver	INFO	Listening on 127.0.0.1:49535
+1517848531251	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aCchRc2PIBMs"
+1517848531827	Marionette	INFO	Enabled via --marionette
+1517848534066	Marionette	INFO	Listening on port 32775
+1517848534167	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:11792): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Parent 11739, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517848553678	geckodriver	INFO	geckodriver 0.19.1
+1517848553681	geckodriver	INFO	Listening on 127.0.0.1:49319
+1517848554795	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.g1Jc9cnN0FOX"
+1517848555421	Marionette	INFO	Enabled via --marionette
+1517848557687	Marionette	INFO	Listening on port 37067
+1517848557711	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:12022): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1517848774181	geckodriver	INFO	geckodriver 0.19.1
+1517848774185	geckodriver	INFO	Listening on 127.0.0.1:53571
+1517848775299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DZjScanH7uYR"
+1517848776007	Marionette	INFO	Enabled via --marionette
+1517848778330	Marionette	INFO	Listening on port 37407
+1517848778413	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:12415): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1517848912424	geckodriver	INFO	geckodriver 0.19.1
+1517848912427	geckodriver	INFO	Listening on 127.0.0.1:56943
+1517848913548	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3gQQ2PzXc5Ao"
+1517848914157	Marionette	INFO	Enabled via --marionette
+1517848916637	Marionette	INFO	Listening on port 43533
+1517848916662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517848943357	geckodriver	INFO	geckodriver 0.19.1
+1517848943359	geckodriver	INFO	Listening on 127.0.0.1:44959
+1517848944495	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qfkd10y9u48I"
+1517848945188	Marionette	INFO	Enabled via --marionette
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517848948119	Marionette	INFO	Listening on port 40101
+1517848948215	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:12895): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1517849020599	geckodriver	INFO	geckodriver 0.19.1
+1517849020602	geckodriver	INFO	Listening on 127.0.0.1:40981
+1517849021700	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wPp67FDb8qJl"
+1517849022324	Marionette	INFO	Enabled via --marionette
+1517849024680	Marionette	INFO	Listening on port 43835
+1517849024715	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:13132): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1517849202097	geckodriver	INFO	geckodriver 0.19.1
+1517849202099	geckodriver	INFO	Listening on 127.0.0.1:40441
+1517849203218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QtwAenrtQpSW"
+1517849203818	Marionette	INFO	Enabled via --marionette
+1517849206223	Marionette	INFO	Listening on port 37677
+1517849206235	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:13503): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1517849236127	geckodriver	INFO	geckodriver 0.19.1
+1517849236129	geckodriver	INFO	Listening on 127.0.0.1:35055
+1517849237224	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.omIPAODJ7zmD"
+1517849237925	Marionette	INFO	Enabled via --marionette
+1517849240263	Marionette	INFO	Listening on port 34927
+1517849240346	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+(/opt/firefox/firefox:13707): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517849312451	geckodriver	INFO	geckodriver 0.19.1
+1517849312454	geckodriver	INFO	Listening on 127.0.0.1:55945
+1517849313550	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dCFYEswOBdgM"
+1517849314163	Marionette	INFO	Enabled via --marionette
+1517849316554	Marionette	INFO	Listening on port 41419
+1517849316569	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517849400266	geckodriver	INFO	geckodriver 0.19.1
+1517849400270	geckodriver	INFO	Listening on 127.0.0.1:48299
+1517849401383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.AYMdLEg5UL4r"
+1517849402006	Marionette	INFO	Enabled via --marionette
+1517849404540	Marionette	INFO	Listening on port 36317
+1517849405570	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:14249): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1517849993004	geckodriver	INFO	geckodriver 0.19.1
+1517849993008	geckodriver	INFO	Listening on 127.0.0.1:54117
+1517849994127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dYWh2zYF8SrG"
+1517849994781	Marionette	INFO	Enabled via --marionette
+1517849997123	Marionette	INFO	Listening on port 35599
+1517849997140	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:14902): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied

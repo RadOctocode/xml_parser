@@ -1,3 +1,20 @@
 pip install selenium
 download geckodriver and export path (follow tutorial here https://stackoverflow.com/questions/40208051/selenium-using-python-geckodriver-executable-needs-to-be-in-path)
 before running export path(export PATH=$PATH:/home/michelle/gecdriver) 
+
+
+
+
+<a href="/en-US/app/search/">	                            <span class="helper"></span><img src="/en-US/splunkd/__raw/servicesNS/mtan23/search/static/appIcon.png">	                        <div class="app-name">Search &amp; Reporting</div>	                        <div class="drag-handle"></div>	                        	                    </a>
+
+
+
+
+
+
+
+
+	                    <a href="/en-US/app/search/">	                            <span class="helper"></span><img src="/en-US/splunkd/__raw/servicesNS/mtan23/search/static/appIcon.png">	                        <div class="app-name">Search &amp; Reporting</div>	                        <div class="drag-handle"></div>	                        	                    </a>	                \\
+	                    class="app"
+	                    data-apid="search"
+http://selenium-python.readthedocs.io/locating-elements.html#locating-by-xpath

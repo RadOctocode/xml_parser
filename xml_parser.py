@@ -32,14 +32,12 @@ login_attempt = driver.find_element_by_xpath("//*[@type='submit']")
 login_attempt.submit()
 
 #driver.find_element_by_xpath('//a[@href="'+"Search & Reporting"+'"]').click()
-driver.find_element_by_xpath().click()
+#driver.find_element_by_xpath().click()
+#continue_link = driver.find_elements_by_class_name("app")
+continue_link = driver.find_element_by_xpath("//*[@class='app']")
 
-continue_link = driver.find_element_by_link_text("Search & Reporting")
-continue_link.click();
-
-
-
-
+#continue_link = driver.find_element_by_xpath("/html/body/div[1]/div/div/div/div[1]/div/div[2]/div/div[1]/a/img")
+#continue_link.click();
 
 
 
@@ -56,4 +54,3 @@ continue_link.click();
 #http://www.thetaranights.com/login-to-a-website-using-selenium-python-python-selenium-example/
 #https://pythonspot.com/selenium-click-button/
 #http://selenium-python.readthedocs.io/locating-elements.html#locating-by-xpath
-
